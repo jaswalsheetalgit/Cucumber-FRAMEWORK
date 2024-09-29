@@ -37,8 +37,6 @@ Before running the tests,
 ![extentreport2](https://github.com/Divya-learn/CucumberBDD_HybridFramework/assets/154688466/7a043012-00f8-4c30-8764-f6a96ac93d11)
 
 
-## Jenkins:
-  
-![Jenkins](https://github.com/Divya-learn/CucumberBDD_HybridFramework/assets/154688466/3f7dd745-f995-4a7b-85af-00dc74471380)
+
 
 
