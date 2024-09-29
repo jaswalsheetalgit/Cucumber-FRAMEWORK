@@ -33,7 +33,6 @@ Before running the tests,
 ### Added a execution video and Generated Reports. See here [CucumberReport](https://github.com/Divya-learn/CucumberBDD_HybridFramework/tree/main/CucumberPdfReport/PdfReport)
 
 ## Extent Report:
-![extentreport](https://github.com/Divya-learn/CucumberBDD_HybridFramework/assets/154688466/57f235c5-52e0-4c25-8557-a12e516a06de)
 ![extentreport2](https://github.com/Divya-learn/CucumberBDD_HybridFramework/assets/154688466/7a043012-00f8-4c30-8764-f6a96ac93d11)
 
 
